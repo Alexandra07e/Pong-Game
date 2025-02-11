@@ -1,2 +1,2 @@
 # Pong-Game
-A simple and easy game named 'Pong': an entertaining two-player game for when boredom kicks in :)
+A simple and easy game named 'Pong': an entertaining two-player game,using JavaScript and HTML, for when boredom kicks in :)
